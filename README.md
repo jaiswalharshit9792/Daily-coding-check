@@ -8,8 +8,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 43
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-05-07 |[Nth Digit                   ](https://leetcode.com/problems/nth-digit/description/)| Medium     | Practiced Linked Lists |
-| 2025-05-06 | Longest Substring Without Repeating| Medium     | Sliding window concept |
+| 2025-05-08 |[Nth Digit                   ](https://leetcode.com/problems/nth-digit/description/)| Medium     |  |
+| 2025-05-08 |[ Longest Substring Without Repeating](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/submissions/1628724629/)| Medium     |  |
 
 ---
 
