@@ -14,8 +14,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 44
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-05-09 |https://leetcode.com/problems/bulb-switcher/submissions/1629440603/| Medium     |  |
-| 2025-05-09 |https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/1629441836/| Medium     |  |
+| 2025-05-09 |[bulb-switcher]https://leetcode.com/problems/bulb-switcher/submissions/1629440603/| Medium     |  |
+| 2025-05-09 |[delete-the-middle-node-of-a-linked-list]https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/1629441836/| Medium     |  |
 
 
 ## Goals
