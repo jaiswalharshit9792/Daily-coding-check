@@ -20,8 +20,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 45
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-05-09 |[bulb-switcher][https://leetcode.com/problems/bulb-switcher/submissions/1629440603/](https://leetcode.com/problems/remove-nth-node-from-end-of-list/))| Medium     |  |
-| 2025-05-09 |[delete-the-middle-node-of-a-linked-list](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/1629441836/)| Medium     |  |
+| 2025-05-09 |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| Medium     |  |
+| 2025-05-09 |[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)| Medium     |  |
 
 
 ## Goals
