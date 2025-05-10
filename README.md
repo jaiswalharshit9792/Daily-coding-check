@@ -20,8 +20,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 45
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-05-09 |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| Medium     |  |
-| 2025-05-09 |[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)| Medium     |  |
+| 2025-05-10 |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| Medium     |  |
+| 2025-05-10 |[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)| Medium     |  |
 
 
 ## Goals
