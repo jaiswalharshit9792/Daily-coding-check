@@ -26,8 +26,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 46
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-05-10 |[greatest-common-divisors-in-linked-list](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/submissions/1631171484/)| Medium     |  |
-| 2025-05-10 |[count-odd-numbers-in-an-interval-range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/submissions/1631170984/)| Easy    |  |
+| 2025-05-11 |[greatest-common-divisors-in-linked-list](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/submissions/1631171484/)| Medium     |  |
+| 2025-05-11 |[count-odd-numbers-in-an-interval-range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/submissions/1631170984/)| Easy    |  |
 
 ## Goals
 
