@@ -23,7 +23,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | 2025-05-10 |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| Medium     |  |
 | 2025-05-10 |[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)| Medium     |  |
 
-#DAY 45
+#DAY 46
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
 | 2025-05-10 |[greatest-common-divisors-in-linked-list](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/submissions/1631171484/)| Medium     |  |
