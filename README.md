@@ -29,6 +29,13 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | 2025-05-11 |[greatest-common-divisors-in-linked-list](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/submissions/1631171484/)| Medium     |  |
 | 2025-05-11 |[count-odd-numbers-in-an-interval-range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/submissions/1631170984/)| Easy    |  |
 
+#DAY 47
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-05-12 |[remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/submissions/1632110770/)| Medium     |  |
+| 2025-05-12 |[sign-of-the-product-of-an-array](https://leetcode.com/problems/sign-of-the-product-of-an-array/submissions/1632114864/)| Easy    |  |
+
+
 ## Goals
 
 - Solve at least one problem daily.
