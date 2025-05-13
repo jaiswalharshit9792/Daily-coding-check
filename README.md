@@ -35,6 +35,12 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | 2025-05-12 |[remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/submissions/1632110770/)| Medium     |  |
 | 2025-05-12 |[sign-of-the-product-of-an-array](https://leetcode.com/problems/sign-of-the-product-of-an-array/submissions/1632114864/)| Easy    |  |
 
+#DAY 48
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-05-13 |[remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/submissions/1632110770/)| Medium     |  |
+| 2025-05-13 |[sign-of-the-product-of-an-array](https://leetcode.com/problems/sign-of-the-product-of-an-array/submissions/1632114864/)| Easy    |  |
+
 
 ## Goals
 
