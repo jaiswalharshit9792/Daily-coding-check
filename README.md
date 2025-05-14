@@ -41,6 +41,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | 2025-05-13 |[reverse-integer](https://leetcode.com/problems/reverse-integer/submissions/1633088378/)| Medium     |  |
 | 2025-05-13 |[partition-list](https://leetcode.com/problems/partition-list/)|Medium    |  |
 
+#DAY 49
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-05-14 |[add-two-numbers](https://leetcode.com/problems/add-two-numbers/)| Medium     |  |
+| 2025-05-14 |[excel-sheet-column-title](https://leetcode.com/problems/excel-sheet-column-title/submissions/1633933729/)| Easy   |  |
 
 ## Goals
 
