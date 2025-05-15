@@ -47,6 +47,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | 2025-05-14 |[add-two-numbers](https://leetcode.com/problems/add-two-numbers/)| Medium     |  |
 | 2025-05-14 |[excel-sheet-column-title](https://leetcode.com/problems/excel-sheet-column-title/submissions/1633933729/)| Easy   |  |
 
+#DAY 50
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-05-15 |[delete-node-in-a-linked-list/submissions](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/1634759254/)| Medium     |  |
+| 2025-05-15 |[sum-of-square-numbers](https://leetcode.com/problems/sum-of-square-numbers/submissions/1634762539/)| Medium   |  |
 ## Goals
 
 - Solve at least one problem daily.
