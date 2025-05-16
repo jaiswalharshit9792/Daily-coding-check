@@ -6,9 +6,9 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 
 
 ##Record 
-|Problems number      | Consistency    | Last updated | 
-|------------|---------------|------------|-
-| 51 |51| 16/05/2025    | 
+|Problems number      | Consistency   | Last updated | 
+|---------------------|---------------|--------------|
+| 51                  |51             | 16/05/2025   | 
 
 ## Progress Table
 #DAY 43
