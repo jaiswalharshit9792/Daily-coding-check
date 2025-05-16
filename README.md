@@ -63,7 +63,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
 | 2025-05-16 |[min-stack](https://leetcode.com/problems/min-stack/)| Medium     |  |
-| 2025-05-16 |[sum-of-square-numbers](https://leetcode.com/problems/sum-of-square-numbers/submissions/1634762539/)| Medium   |  |
+| 2025-05-16 |[two-sum](https://leetcode.com/problems/two-sum/)| Easy|  |
 
 ## Goals
 
