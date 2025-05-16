@@ -4,6 +4,12 @@ LEETCODE TRACKER
 
 This repository contains my daily progress on LeetCode problems. I aim to solve at least one problem daily to improve my problem-solving skills.
 
+
+##Record 
+|Problems number      | Consistency    | Last updated | 
+|------------|---------------|------------|-
+| 51 |51| 16/05/2025    | 
+
 ## Progress Table
 #DAY 43
 | Date       | Problem Name                       | Difficulty | Notes                  |
@@ -52,6 +58,13 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-05-15 |[delete-node-in-a-linked-list/submissions](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/1634759254/)| Medium     |  |
 | 2025-05-15 |[sum-of-square-numbers](https://leetcode.com/problems/sum-of-square-numbers/submissions/1634762539/)| Medium   |  |
+ 
+#DAY 51
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-05-16 |[min-stack](https://leetcode.com/problems/min-stack/)| Medium     |  |
+| 2025-05-16 |[sum-of-square-numbers](https://leetcode.com/problems/sum-of-square-numbers/submissions/1634762539/)| Medium   |  |
+
 ## Goals
 
 - Solve at least one problem daily.
