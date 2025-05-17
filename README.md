@@ -8,7 +8,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 ##Record 
 |Problems number      | Consistency   | Last updated | 
 |---------------------|---------------|--------------|
-| 51                  |51             | 16/05/2025   | 
+| 52                  |52             | 17/05/2025   | 
 
 ## Progress Table
 #DAY 43
@@ -64,6 +64,12 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-05-16 |[min-stack](https://leetcode.com/problems/min-stack/)| Medium     |  |
 | 2025-05-16 |[two-sum](https://leetcode.com/problems/two-sum/)| Easy|  |
+
+#DAY 51
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-05-17 |[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks/submissions/1636488523/)|Easy   |  |
+| 2025-05-17 |[contains-duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1636486618/)| Easy|  |
 
 ## Goals
 
