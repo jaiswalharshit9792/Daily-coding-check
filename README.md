@@ -81,7 +81,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 54
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-05-19 |[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1638396980/)|Easy   |  |
+| 2025-05-19 |[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1638396980/)| Medium     |  |
 | 2025-05-19 |[find-greatest-common-divisor-of-array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/submissions/1638397484/)| Easy|  |
 
 ## Goals
