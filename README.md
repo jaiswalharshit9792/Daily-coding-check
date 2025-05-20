@@ -6,9 +6,9 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 
 
 ##Record 
-|Problems number      | Consistency   | Last updated | 
-|---------------------|---------------|--------------|
-| 54                  |54             | 19/05/2025   | 
+| Consistency   | Last updated | 
+|---------------|--------------|
+|55             | 20/05/2025   | 
 
 ## Progress Table
 #DAY 43
@@ -83,6 +83,12 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-05-19 |[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1638396980/)| Medium     |  |
 | 2025-05-19 |[find-greatest-common-divisor-of-array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/submissions/1638397484/)| Easy|  |
+
+#DAY 55
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-05-20 |[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/submissions/1639400944/)| Medium     |  |
+| 2025-05-20 |[valid-parenthesis-string](https://leetcode.com/problems/valid-parenthesis-string/submissions/1639404842/)| Easy|  |
 
 ## Goals
 
