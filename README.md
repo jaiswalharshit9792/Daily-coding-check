@@ -87,8 +87,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 55
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-05-20 |[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/submissions/1639400944/)| Medium     |  |
-| 2025-05-20 |[valid-parenthesis-string](https://leetcode.com/problems/valid-parenthesis-string/submissions/1639404842/)| Easy|  |
+| 2025-05-20 |[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/submissions/1639400944/)|  Easy   |  |
+| 2025-05-20 |[valid-parenthesis-string](https://leetcode.com/problems/valid-parenthesis-string/submissions/1639404842/)|  Medium   |  |
 
 ## Goals
 
