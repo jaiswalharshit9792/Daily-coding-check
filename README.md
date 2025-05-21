@@ -8,7 +8,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 ##Record 
 | Consistency   | Last updated | 
 |---------------|--------------|
-|55             | 20/05/2025   | 
+|56             | 21/05/2025   | 
 
 ## Progress Table
 #DAY 43
@@ -90,6 +90,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | 2025-05-20 |[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/submissions/1639400944/)|  Easy   |  |
 | 2025-05-20 |[valid-parenthesis-string](https://leetcode.com/problems/valid-parenthesis-string/submissions/1639404842/)|  Medium   |  |
 
+#DAY 56
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-05-21 |[majority-element](https://leetcode.com/problems/majority-element/submissions/1640532302/)|  Easy   |  |
+| 2025-05-21 |[minimum-remove-to-make-valid-parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/submissions/1640531941/)|  Medium   |  |
 ## Goals
 
 - Solve at least one problem daily.
