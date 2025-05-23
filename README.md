@@ -102,6 +102,12 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | 2025-05-22 |[longest-valid-parentheses/](https://leetcode.com/problems/longest-valid-parentheses/)|  Easy   |  |
 | 2025-05-22 |[search-insert-position](https://leetcode.com/problems/search-insert-position/submissions/1641425909/)|  Medium   |  |
 
+#DAY 58
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-05-23 |[longest-valid-parentheses/](https://leetcode.com/problems/longest-valid-parentheses/)|  Easy   |  |
+| 2025-05-23 |[search-insert-position](https://leetcode.com/problems/search-insert-position/submissions/1641425909/)|  Medium   |  |
+
 ## Goals
 
 - Solve at least one problem daily.
