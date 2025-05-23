@@ -105,8 +105,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 58
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-05-23 |[longest-valid-parentheses/](https://leetcode.com/problems/longest-valid-parentheses/)|  Easy   |  |
-| 2025-05-23 |[search-insert-position](https://leetcode.com/problems/search-insert-position/submissions/1641425909/)|  Medium   |  |
+| 2025-05-23 |[basic-calculator](https://leetcode.com/problems/basic-calculator/submissions/1642287227/)|  Hard |  |
+| 2025-05-23 |[move-zeroes](https://leetcode.com/problems/move-zeroes/submissions/1642287095/)|  Easy   |  |
 
 ## Goals
 
