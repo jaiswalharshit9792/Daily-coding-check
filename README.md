@@ -108,6 +108,12 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | 2025-05-23 |[basic-calculator](https://leetcode.com/problems/basic-calculator/submissions/1642287227/)|  Hard |  |
 | 2025-05-23 |[move-zeroes](https://leetcode.com/problems/move-zeroes/submissions/1642287095/)|  Easy   |  |
 
+#DAY 59
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-05-24 |[basic-calculator](https://leetcode.com/problems/basic-calculator/submissions/1642287227/)|  Hard |  |
+| 2025-05-24 |[move-zeroes](https://leetcode.com/problems/move-zeroes/submissions/1642287095/)|  Easy   |  |
+
 ## Goals
 
 - Solve at least one problem daily.
