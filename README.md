@@ -117,8 +117,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 60
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-05-25 |[implement-stack-using-queues](https://leetcode.com/problems/implement-stack-using-queues/)|   Easy  |  |
-| 2025-05-25 |[rotate-array](https://leetcode.com/problems/rotate-array/submissions/1643233247/)| Medium  |  |
+| 2025-05-25 |[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1644216689/)|   Easy  |  |
+| 2025-05-25 |[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1644214930/)| Medium  |  |
 
 ## Goals
 
