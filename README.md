@@ -123,8 +123,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 61
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-05-24 |[implement-stack-using-queues](https://leetcode.com/problems/implement-stack-using-queues/)|   Easy  |  |
-| 2025-05-24 |[rotate-array](https://leetcode.com/problems/rotate-array/submissions/1643233247/)| Medium  |  |
+| 2025-05-24 |[path-sum](https://leetcode.com/problems/path-sum/submissions/1645133780/)|   Easy  |  |
+| 2025-05-24 |[maximum-subarray](https://leetcode.com/problems/maximum-subarray/submissions/1645133652/)| Medium  |  |
 ## Goals
 
 - Solve at least one problem daily.
