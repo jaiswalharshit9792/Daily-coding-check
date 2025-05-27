@@ -130,8 +130,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 62
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-05-27 |[path-sum](https://leetcode.com/problems/path-sum/submissions/1645133780/)|   Easy  |  |
-| 2025-05-27 |[maximum-subarray](https://leetcode.com/problems/maximum-subarray/submissions/1645133652/)| Medium  |  |
+| 2025-05-27 |[number-of-subarrays-with-lcm-equal-to-k](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/submissions/1646186939/)|  Medium   |  |
+| 2025-05-27 |[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/1646186732/)| Easy |  |
 
 ## Goals
 
