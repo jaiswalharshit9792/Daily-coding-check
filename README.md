@@ -137,8 +137,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 63
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-05-28 |[number-of-subarrays-with-lcm-equal-to-k](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/submissions/1646186939/)|  Medium   |  |
-| 2025-05-28 |[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/1646186732/)| Easy |  |
+| 2025-05-28 |[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves/submissions/1647226741/)| Easy |  |
+| 2025-05-28 |[kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/1647227110/)|  |  |
 
 ## Goals
 
