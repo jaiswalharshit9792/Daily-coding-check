@@ -140,6 +140,12 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | 2025-05-28 |[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves/submissions/1647226741/)| Easy |  |
 | 2025-05-28 |[kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/1647227110/)|  |  |
 
+#DAY 64
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-05-29 |[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves/submissions/1647226741/)| Easy |  |
+| 2025-05-29 |[kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/1647227110/)|  |  |
+
 ## Goals
 
 - Solve at least one problem daily.
