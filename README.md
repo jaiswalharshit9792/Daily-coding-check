@@ -149,8 +149,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 65
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-05-30 |[diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree/submissions/1648152372/)| Easy |  |
-| 2025-05-30 |[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/submissions/1648153424/)| Medium  |  |
+| 2025-05-30 |[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1649011352/)| Easy |  |
+| 2025-05-30 |[flipping-an-image](https://leetcode.com/problems/flipping-an-image/submissions/1649011113/)|Easy  |  |
 
 ## Goals
 
