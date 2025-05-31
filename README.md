@@ -8,7 +8,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 ##**Record**
 | Consistency   | Last updated | 
 |---------------|--------------|
-|65              | 30/05/2025   | 
+|66             | 30/05/2025   | 
 
 ## Progress Table
 #DAY 43
