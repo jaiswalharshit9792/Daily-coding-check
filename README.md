@@ -163,7 +163,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-01 |[binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view/submissions/1650931625/)|  Medium  |  |
 | 2025-06-01 |[lexicographically-smallest-palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/submissions/1650931239/)| Easy  |  |
-
+ 
 ## Goals
 
 - Solve at least one problem daily.
