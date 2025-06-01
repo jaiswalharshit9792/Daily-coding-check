@@ -161,8 +161,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 67
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-01 |[rotate-image](https://leetcode.com/problems/rotate-image/submissions/1649953592/)|  Medium  |  |
-| 2025-06-01 |[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1649953989/)| Medium  |  |
+| 2025-06-01 |[binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view/submissions/1650931625/)|  Medium  |  |
+| 2025-06-01 |[lexicographically-smallest-palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/submissions/1650931239/)| Easy  |  |
 
 ## Goals
 
