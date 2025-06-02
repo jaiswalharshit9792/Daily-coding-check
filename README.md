@@ -167,8 +167,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 68
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-02 |[binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view/submissions/1650931625/)|  Medium  |  |
-| 2025-06-02 |[lexicographically-smallest-palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/submissions/1650931239/)| Easy  |  |
+ | 2025-06-02 |[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/submissions/1651907765/)|  Medium  |  |
+| 2025-06-02 |[length-of-last-word](https://leetcode.com/problems/length-of-last-word/submissions/1651908054/)| Easy  |  |
  
 ## Goals
 
