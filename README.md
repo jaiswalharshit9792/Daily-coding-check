@@ -170,6 +170,12 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
  | 2025-06-02 |[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/submissions/1651907765/)|  Medium  |  |
 | 2025-06-02 |[length-of-last-word](https://leetcode.com/problems/length-of-last-word/submissions/1651908054/)| Easy  |  |
  
+#DAY 69
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+ | 2025-06-02 |[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/submissions/1651907765/)|  Medium  |  |
+| 2025-06-02 |[length-of-last-word](https://leetcode.com/problems/length-of-last-word/submissions/1651908054/)| Easy  |  |
+ 
 ## Goals
 
 - Solve at least one problem daily.
