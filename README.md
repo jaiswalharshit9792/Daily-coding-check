@@ -179,8 +179,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 70
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-04 |[lowest-common-ancestor-of-a-binary-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/1652904815/)|  Medium  |  |
-| 2025-06-04 |[number-of-segments-in-a-string](https://leetcode.com/problems/number-of-segments-in-a-string/submissions/1652903416/)| Easy  |  |
+| 2025-06-04 |[sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/1653835750/)|  Medium  |  |
+| 2025-06-04 |[reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string/submissions/1653836043/)| Easy  |  |
  
 ## Goals
 
