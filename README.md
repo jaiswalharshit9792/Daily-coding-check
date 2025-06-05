@@ -181,6 +181,12 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-04 |[sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/1653835750/)|  Medium  |  |
 | 2025-06-04 |[reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string/submissions/1653836043/)| Easy  |  |
+   
+#DAY 71
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-06-04 |[sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/1653835750/)|  Medium  |  |
+| 2025-06-04 |[reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string/submissions/1653836043/)| Easy  |  |
  
 ## Goals
 
