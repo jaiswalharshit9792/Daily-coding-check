@@ -191,8 +191,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 72
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-05 |[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/1654883263/)|  Medium  |  |
-| 2025-06-05 |[find-first-palindromic-string-in-the-array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/submissions/1654883782/)| Easy  |  |
+| 2025-06-06 |[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/1654883263/)|  Medium  |  |
+| 2025-06-06 |[find-first-palindromic-string-in-the-array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/submissions/1654883782/)| Easy  |  |
  
 ## Goals
 
