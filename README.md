@@ -190,7 +190,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
     
 #DAY 72
 | Date       | Problem Name                       | Difficulty | Notes                  |
-|------------|------------------------------------|------------|-------------- ----------|
+|------------|------------------------------------|------------|------------------------|
 | 2025-06-06 |[search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/1655861114/)|  Easy    |  |
 | 2025-06-06 |[valid-palindrome](https://leetcode.com/problems/valid-palindrome/submissions/1655860949/)| Easy  |  |
  
