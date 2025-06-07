@@ -197,8 +197,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 73
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-07 |[search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/1655861114/)|  Easy    |  |
-| 2025-06-07 |[valid-palindrome](https://leetcode.com/problems/valid-palindrome/submissions/1655860949/)| Easy  |  |
+| 2025-06-07 |[insert-into-a-binary-search-tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/1656863834/)|  Easy    |  |
+| 2025-06-07 |[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/1656866363/)| Easy  |  |
  
 ## Goals
 
