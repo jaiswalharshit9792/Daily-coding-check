@@ -199,6 +199,12 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-07 |[insert-into-a-binary-search-tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/1656863834/)|  Medium |  |
 | 2025-06-07 |[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/1656866363/)| Easy  |  |
+      
+#DAY 74
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-06-07 |[insert-into-a-binary-search-tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/1656863834/)|  Medium |  |
+| 2025-06-07 |[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/1656866363/)| Easy  |  |
  
 ## Goals
 
