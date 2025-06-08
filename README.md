@@ -203,8 +203,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 74
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-07 |[insert-into-a-binary-search-tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/1656863834/)|  Medium |  |
-| 2025-06-07 |[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/1656866363/)| Easy  |  |
+| 2025-06-07 |[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/1657868679/)|  Medium |  |
+| 2025-06-07 |[rotate-string](https://leetcode.com/problems/rotate-string/submissions/1657868469/)| Easy  |  |
  
 ## Goals
 
