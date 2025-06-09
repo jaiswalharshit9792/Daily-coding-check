@@ -203,8 +203,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 74
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-07 |[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/1657868679/)|  Medium | |
-| 2025-06-07 |[rotate-string](https://leetcode.com/problems/rotate-string/submissions/1657868469/)| Easy  |  |
+| 2025-06-08 |[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/1657868679/)|  Medium | |
+| 2025-06-08|[rotate-string](https://leetcode.com/problems/rotate-string/submissions/1657868469/)| Easy  |  |
  
 ## Goals
 
