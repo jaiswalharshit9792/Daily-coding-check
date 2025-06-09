@@ -209,8 +209,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 75
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-09 |[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/1657868679/)|  Medium | |
-| 2025-06-09 |[rotate-string](https://leetcode.com/problems/rotate-string/submissions/1657868469/)| Easy  |  |
+| 2025-06-09 |[delete-node-in-a-bst](https://leetcode.com/problems/delete-node-in-a-bst/submissions/1658788100/)|  Medium | |
+| 2025-06-09 |[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/submissions/1658787131/)| Easy  |  |
  
 ## Goals
 
