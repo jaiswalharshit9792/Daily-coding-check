@@ -222,7 +222,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-11 |[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/1661059162/)|  Medium | |
-| 2025-06-11 |[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1659896686/)|  Medium  |  |
+| 2025-06-11 |[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion/submissions/1661059796/)|  Medium  |  |
 
  
  ## Goals
