@@ -217,9 +217,15 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-10 |[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/1659896930/)|  Medium | |
 | 2025-06-10 |[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1659896686/)|  Medium  |  |
+        
+#DAY 77
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-06-10 |[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/1659896930/)|  Medium | |
+| 2025-06-10 |[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1659896686/)|  Medium  |  |
 
  
-## Goals
+ ## Goals
 
 - Solve at least one problem daily.
 - Gviswanathan challenge
