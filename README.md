@@ -221,7 +221,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 77
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-11 |[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/1659896930/)|  Medium | |
+| 2025-06-11 |[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/1661059162/)|  Medium | |
 | 2025-06-11 |[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1659896686/)|  Medium  |  |
 
  
