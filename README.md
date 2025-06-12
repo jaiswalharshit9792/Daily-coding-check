@@ -227,8 +227,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 78
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-12 |[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/1661059162/)|  Medium | |
-| 2025-06-12 |[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion/submissions/1661059796/)|  Medium  |  |
+| 2025-06-12 |[maximum-number-of-vowels-in-a-substring-of-given-length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/submissions/1662078142/)|  Medium | |
+| 2025-06-12 |[convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/submissions/1662077866/)|  Medium  |  |
 
  ## Goals
 
