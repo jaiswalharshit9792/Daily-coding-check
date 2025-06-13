@@ -233,8 +233,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 79
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-13 |[find-the-town-judge](https://leetcode.com/problems/find-the-town-judge/submissions/1663147083/)|  Medium | |
-| 2025-06-13 |[greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/1663147231/)|  Medium  |  |
+| 2025-06-13 |[find-the-town-judge](https://leetcode.com/problems/find-the-town-judge/submissions/1663147083/)|   Easy  | |
+| 2025-06-13 |[greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/1663147231/)|  Easy  |  |
 
 
  ## Goals
