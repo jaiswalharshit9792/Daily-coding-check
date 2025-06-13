@@ -233,8 +233,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 79
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-13 |[maximum-number-of-vowels-in-a-substring-of-given-length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/submissions/1662078142/)|  Medium | |
-| 2025-06-13 |[convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/submissions/1662077866/)|  Medium  |  |
+| 2025-06-13 |[find-the-town-judge](https://leetcode.com/problems/find-the-town-judge/submissions/1663147083/)|  Medium | |
+| 2025-06-13 |[greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/1663147231/)|  Medium  |  |
 
 
  ## Goals
