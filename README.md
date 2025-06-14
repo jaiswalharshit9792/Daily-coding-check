@@ -10,7 +10,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |---------------|--------------|
 |79             | 13/06/2025   | 
 
-## Progress Table
+## Progress   
 #DAY 43
 | Date       | Problem Name                        | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
