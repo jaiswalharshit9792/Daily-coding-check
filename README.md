@@ -262,7 +262,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 84
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-18 |[hamming-distance](https://leetcode.com/problems/hamming-distance/submissions/1666263357/)|   Easy  | | 
+| 2025-06-18 |[roman-to-integer](https://leetcode.com/problems/roman-to-integer/submissions/1668575923/)|   Easy  | | 
 
 ## Goals
 
