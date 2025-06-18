@@ -258,7 +258,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-17 |[count-primes](https://leetcode.com/problems/count-primes/submissions/1667414235/)|   Medium  | |
-
+        
+#DAY 84
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-06-18 |[hamming-distance](https://leetcode.com/problems/hamming-distance/submissions/1666263357/)|   Easy  | | 
 
 ## Goals
 
