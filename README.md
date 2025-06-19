@@ -263,6 +263,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-18 |[roman-to-integer](https://leetcode.com/problems/roman-to-integer/submissions/1668575923/)|   Easy  | | 
+        
+#DAY 85
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-06-19 |[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1669701983/)|   Medium   | | 
 
 ## Goals
 
