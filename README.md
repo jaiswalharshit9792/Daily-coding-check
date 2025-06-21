@@ -273,7 +273,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-20 |[remove-element](https://leetcode.com/problems/remove-element/submissions/1670698121/)|     Easy  | | 
-
+        
+#DAY 87
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-06-21 |[remove-element](https://leetcode.com/problems/remove-element/submissions/1670698121/)|     Easy  | | 
 
 ## Goals
 
