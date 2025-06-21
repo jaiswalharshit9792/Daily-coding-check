@@ -277,7 +277,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 87
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-21 |[climbing-stairs](https://leetcode.com/problems/climbing-stairs/submissions/1671770038/)|     Easy  | | 
+| 2025-06-21 |[climbing-stairs](https://leetcode.com/problems/climbing-stairs/submissions/1671770038/)|   Easy  | | 
 
 ## Goals
 
