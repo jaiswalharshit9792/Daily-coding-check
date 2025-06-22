@@ -282,7 +282,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 88
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-22 |[climbing-stairs](https://leetcode.com/problems/climbing-stairs/submissions/1671770038/)|  Medium  | | 
+| 2025-06-22 |[integer-to-roman](https://leetcode.com/problems/integer-to-roman/submissions/1672841486/)|  Medium  | | 
 
 ## Goals
 
