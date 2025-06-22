@@ -279,6 +279,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-21 |[climbing-stairs](https://leetcode.com/problems/climbing-stairs/submissions/1671770038/)|   Easy  | | 
 
+#DAY 88
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-06-22 |[climbing-stairs](https://leetcode.com/problems/climbing-stairs/submissions/1671770038/)|   Easy  | | 
+
 ## Goals
 
 - Solve at least one problem daily.
