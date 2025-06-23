@@ -284,6 +284,12 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-22 |[integer-to-roman](https://leetcode.com/problems/integer-to-roman/submissions/1672841486/)|  Medium  | | 
 
+#DAY 89
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-06-23 |[integer-to-roman](https://leetcode.com/problems/integer-to-roman/submissions/1672841486/)|  Medium  | | 
+
+
 ## Goals
 
 - Solve at least one problem daily.
