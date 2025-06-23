@@ -287,7 +287,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 89
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-23 |[integer-to-roman](https://leetcode.com/problems/integer-to-roman/submissions/1672841486/)|  Medium  | | 
+| 2025-06-23 |[3sum](https://leetcode.com/problems/3sum/submissions/1673929522/)|  Medium  | | 
 
 
 ## Goals
