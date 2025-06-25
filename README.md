@@ -297,7 +297,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 91
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-25 |[3sum](https://leetcode.com/problems/3sum/submissions/1673929522/)|  Medium  | | 
+| 2025-06-25 |[valid-sudoku](https://leetcode.com/problems/valid-sudoku/submissions/1676326461/)|  Medium  | | 
 
 ## Goals
 
