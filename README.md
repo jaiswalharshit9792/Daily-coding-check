@@ -299,6 +299,12 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-25 |[valid-sudoku](https://leetcode.com/problems/valid-sudoku/submissions/1676326461/)|  Medium  | | 
 
+#DAY 92
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-06-25 |[valid-sudoku](https://leetcode.com/problems/valid-sudoku/submissions/1676326461/)|  Medium  | | 
+
+
 ## Goals
 
 - Solve at least one problem daily.
