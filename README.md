@@ -5,7 +5,7 @@ LEETCODE TRACKER
 This repository contains my daily progress on LeetCode problems. I aim to solve at least one problem daily to improve my problem-solving skills.
 
 
-##**Record**
+## **Record**
 | Consistency   | Last updated | 
 |---------------|--------------|
 |93             | 27/06/2025   | 
