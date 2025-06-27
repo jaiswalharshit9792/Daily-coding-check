@@ -304,6 +304,10 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-26 |[sqrtx](https://leetcode.com/problems/sqrtx/submissions/1677495445/)| Easy | | 
 
+#DAY 93
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-06-27 |[sqrtx](https://leetcode.com/problems/sqrtx/submissions/1677495445/)| Easy | | 
 
 ## Goals
 
