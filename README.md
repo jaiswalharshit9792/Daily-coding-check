@@ -11,7 +11,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |93             | 27/06/2025   | 
 
 ## Progress   
-# DAY-43
+# DAY 43
 | Date       | Problem Name                        | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
 | 2025-05-08 |[Nth Digit                   ](https://leetcode.com/problems/nth-digit/description/)| Medium     |  |
