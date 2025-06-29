@@ -317,7 +317,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 95
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-29 |[insert-interval](https://leetcode.com/problems/insert-interval/submissions/1679529794/)|  Easy | | 
+| 2025-06-29 |[reverse-bits](https://leetcode.com/problems/reverse-bits/submissions/1680586664/)|  Easy | | 
 
 
 
