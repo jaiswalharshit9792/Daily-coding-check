@@ -322,7 +322,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 96
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-30 |[reverse-bits](https://leetcode.com/problems/reverse-bits/submissions/1680586664/)|  Easy | | 
+| 2025-06-30 |[power-of-three](https://leetcode.com/problems/power-of-three/submissions/1681729550/)|  Easy | | 
 
 ## Goals
 
