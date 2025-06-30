@@ -319,7 +319,10 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-29 |[reverse-bits](https://leetcode.com/problems/reverse-bits/submissions/1680586664/)|  Easy | | 
 
-
+# DAY 96
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-06-30 |[reverse-bits](https://leetcode.com/problems/reverse-bits/submissions/1680586664/)|  Easy | | 
 
 ## Goals
 
