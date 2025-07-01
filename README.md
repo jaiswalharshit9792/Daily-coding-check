@@ -324,6 +324,12 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-30 |[power-of-three](https://leetcode.com/problems/power-of-three/submissions/1681729550/)|  Easy | | 
 
+# DAY 97
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-07-1 |[power-of-three](https://leetcode.com/problems/power-of-three/submissions/1681729550/)|  Easy | | 
+
+
 ## Goals
 
 - Solve at least one problem daily.
