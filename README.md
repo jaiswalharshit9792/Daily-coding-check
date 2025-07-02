@@ -329,6 +329,12 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-07-1 |[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/submissions/1682780972/)|   Medium  | | 
 
+# DAY 98
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-07-02 |[spiral-matrix](https://leetcode.com/problems/spiral-matrix/submissions/1684165031/)|   Medium  | | 
+
+
 
 ## Goals
 
