@@ -337,7 +337,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 99
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-07-03 |[spiral-matrix](https://leetcode.com/problems/spiral-matrix/submissions/1684165031/)|   Easy  | | 
+| 2025-07-03 |[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1685284840/)|   Easy  | | 
 
 ## Goals
 
