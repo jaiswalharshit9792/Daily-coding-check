@@ -352,7 +352,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 102
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-07-06 |[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/submissions/1687533625/)|     Easy  | | 
+| 2025-07-06 |[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/submissions/1688697336/)|     Easy  | | 
 
 ## Goals
 
