@@ -354,6 +354,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-07-06 |[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/submissions/1688697336/)|     Easy  | | 
 
+# DAY 103
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-07-07 |[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/submissions/1688697336/)|     Easy  | | 
+
 ## Goals
 
 - Solve at least one problem daily.
