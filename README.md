@@ -361,7 +361,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 
 # DAY 104
 | Date       | Problem Name                       | Difficulty | Notes                  |
-|------------|------------------------------------|------------|------------------------|
+|------------|------------------------------------|------------|------------------------| 
 | 2025-07-08 |[contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii/submissions/1689703061/)|     Easy  | | 
 
 ## Goals
