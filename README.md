@@ -369,6 +369,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------| 
 | 2025-07-09 |[binary-tree-paths](https://leetcode.com/problems/binary-tree-paths/submissions/1692298760/)|     Easy  | | 
 
+# DAY 106
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------| 
+| 2025-07-10 |[binary-tree-paths](https://leetcode.com/problems/binary-tree-paths/submissions/1692298760/)|     Easy  | | 
+
 ## Goals
 
 - Solve at least one problem daily.
