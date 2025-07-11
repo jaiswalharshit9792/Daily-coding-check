@@ -377,7 +377,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 107
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-07-11 |[4sum](https://leetcode.com/problems/4sum/submissions/1693352710/)|     Medium   | | 
+| 2025-07-11 |[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/submissions/1694544493/)|     Medium   | | 
 
 ## Goals
 
