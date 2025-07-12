@@ -382,7 +382,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 108
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-07-12 |[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/submissions/1694544493/)|     Medium   | | 
+| 2025-07-12 |[single-number](https://leetcode.com/problems/single-number/submissions/1695474878/)|      Easy   | | 
 
 ## Goals
 
