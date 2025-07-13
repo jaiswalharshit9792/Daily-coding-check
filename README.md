@@ -387,7 +387,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 109
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-07-13 |[single-number](https://leetcode.com/problems/single-number/submissions/1695474878/)|       Medium   | | 
+| 2025-07-13 |[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1696614912/)|       Medium   | | 
 
 ## Goals
 
