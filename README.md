@@ -387,7 +387,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 109
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-07-13 |[single-number](https://leetcode.com/problems/single-number/submissions/1695474878/)|      Easy   | | 
+| 2025-07-13 |[single-number](https://leetcode.com/problems/single-number/submissions/1695474878/)|       Medium   | | 
 
 ## Goals
 
