@@ -397,7 +397,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 111
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-07-15 |[count-complete-tree-nodes](https://leetcode.com/problems/count-complete-tree-nodes/submissions/1697765475/)|           Easy   | | 
+| 2025-07-15 |[isomorphic-strings](https://leetcode.com/problems/isomorphic-strings/submissions/1699073988/)|           Easy   | | 
 
 ## Goals
 
