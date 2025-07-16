@@ -399,6 +399,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------| 
 | 2025-07-15 |[isomorphic-strings](https://leetcode.com/problems/isomorphic-strings/submissions/1699073988/)|           Easy   | | 
 
+# DAY 112
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------| 
+| 2025-07-16 |[isomorphic-strings](https://leetcode.com/problems/isomorphic-strings/submissions/1699073988/)|           Easy   | | 
+
 ## Goals
 
 - Solve at least one problem daily.
