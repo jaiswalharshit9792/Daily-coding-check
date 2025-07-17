@@ -407,7 +407,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 113
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-07-17 |[generate-parentheses](https://leetcode.com/problems/generate-parentheses/submissions/1700257898/)|    Medium   | | 
+| 2025-07-17 |[permutations](https://leetcode.com/problems/permutations/submissions/1701549399/)|    Medium   | | 
 
 ## Goals
 
