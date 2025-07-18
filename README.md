@@ -412,7 +412,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 114
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-07-18 |[permutations](https://leetcode.com/problems/permutations/submissions/1701549399/)|    Medium   | | 
+| 2025-07-18 |[binary-watch](https://leetcode.com/problems/binary-watch/submissions/1702678900/)|       Easy   | | 
 
 ## Goals
 
