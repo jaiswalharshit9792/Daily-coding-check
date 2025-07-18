@@ -409,6 +409,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------| 
 | 2025-07-17 |[permutations](https://leetcode.com/problems/permutations/submissions/1701549399/)|    Medium   | | 
 
+# DAY 114
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------| 
+| 2025-07-18 |[permutations](https://leetcode.com/problems/permutations/submissions/1701549399/)|    Medium   | | 
+
 ## Goals
 
 - Solve at least one problem daily.
