@@ -414,6 +414,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------| 
 | 2025-07-18 |[binary-watch](https://leetcode.com/problems/binary-watch/submissions/1702678900/)|       Easy   | | 
 
+# DAY 115
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------| 
+| 2025-07-19 |[binary-watch](https://leetcode.com/problems/binary-watch/submissions/1702678900/)|       Easy   | | 
+
 ## Goals
 
 - Solve at least one problem daily.
