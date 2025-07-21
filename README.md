@@ -426,7 +426,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 117
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-07-21 |[third-maximum-number](https://leetcode.com/problems/third-maximum-number/submissions/1704983161/)|       Easy   | | 
+| 2025-07-21 |[word-pattern]( https://leetcode.com/problems/word-pattern/submissions/1706194315/)|       Easy   | | 
 
 ## Goals
 
