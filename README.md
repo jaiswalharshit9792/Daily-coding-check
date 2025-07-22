@@ -431,7 +431,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 118
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-07-22|[word-pattern]( https://leetcode.com/problems/word-pattern/submissions/1706194315/)|       Easy   | | 
+| 2025-07-22|[summary-ranges]( https://leetcode.com/problems/summary-ranges/submissions/1707685216/)|       Easy   | | 
 
 ## Goals
 
