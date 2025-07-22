@@ -428,6 +428,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------| 
 | 2025-07-21 |[word-pattern]( https://leetcode.com/problems/word-pattern/submissions/1706194315/)|       Easy   | | 
 
+# DAY 118
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------| 
+| 2025-07-22|[word-pattern]( https://leetcode.com/problems/word-pattern/submissions/1706194315/)|       Easy   | | 
+
 ## Goals
 
 - Solve at least one problem daily.
