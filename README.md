@@ -436,7 +436,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 119
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-07-23|[summary-ranges]( https://leetcode.com/problems/summary-ranges/submissions/1707685216/)|       Easy   | | 
+| 2025-07-23|[find-the-difference](https://leetcode.com/problems/find-the-difference/submissions/1708781699/)|       Easy   | | 
 
 ## Goals
 
