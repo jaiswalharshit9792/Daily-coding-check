@@ -441,7 +441,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 120
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-07-24|[find-the-difference](https://leetcode.com/problems/find-the-difference/submissions/1708781699/)|       Easy   | | 
+| 2025-07-24|[count-and-say](https://leetcode.com/problems/count-and-say/submissions/1710038561/)|       Easy   | | 
 
 ## Goals
 
