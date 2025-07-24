@@ -438,6 +438,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------| 
 | 2025-07-23|[find-the-difference](https://leetcode.com/problems/find-the-difference/submissions/1708781699/)|       Easy   | | 
 
+# DAY 120
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------| 
+| 2025-07-24|[find-the-difference](https://leetcode.com/problems/find-the-difference/submissions/1708781699/)|       Easy   | | 
+
 ## Goals
 
 - Solve at least one problem daily.
