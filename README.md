@@ -446,7 +446,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 121
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-07-25|[count-and-say](https://leetcode.com/problems/count-and-say/submissions/1710038561/)|       Medium    | | 
+| 2025-07-25|[count-and-say](https://leetcode.com/problems/count-and-say/submissions/1710038561/)|         Easy    | | 
 
 ## Goals
 
