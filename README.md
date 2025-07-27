@@ -455,7 +455,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 123
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-07-27|[find-numbers-with-even-number-of-digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/1711186338/)|         Easy    | | 
+| 2025-07-27|[valid-palindrome](https://leetcode.com/problems/valid-palindrome/submissions/1713663161/)|         Easy    | | 
 
 ## Goals
 
