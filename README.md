@@ -450,7 +450,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 122
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-07-26|[find-numbers-with-even-number-of-digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/1711186338/)|         Easy    | | 
+| 2025-07-26|[fizz-buzz](https://leetcode.com/problems/fizz-buzz/submissions/1713666416/)|         Easy    | | 
 
 # DAY 123
 | Date       | Problem Name                       | Difficulty | Notes                  |
