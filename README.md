@@ -460,7 +460,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 124
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-07-28|[valid-palindrome](https://leetcode.com/problems/valid-palindrome/submissions/1713663161/)|         Easy    | | 
+| 2025-07-28|[two-sum](https://leetcode.com/problems/two-sum/submissions/1714864545/)|         Easy    | | 
 
 ## Goals
 
