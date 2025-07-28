@@ -457,6 +457,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------| 
 | 2025-07-27|[valid-palindrome](https://leetcode.com/problems/valid-palindrome/submissions/1713663161/)|         Easy    | | 
 
+# DAY 124
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------| 
+| 2025-07-28|[valid-palindrome](https://leetcode.com/problems/valid-palindrome/submissions/1713663161/)|         Easy    | | 
+
 ## Goals
 
 - Solve at least one problem daily.
