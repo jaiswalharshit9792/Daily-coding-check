@@ -465,7 +465,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 125
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-07-29|[two-sum](https://leetcode.com/problems/two-sum/submissions/1714864545/)|         Easy    | | 
+| 2025-07-29|[roman-to-integer](https://leetcode.com/problems/roman-to-integer/submissions/1717413855/)|         Easy    | | 
 
 # DAY 126
 | Date       | Problem Name                       | Difficulty | Notes                  |
