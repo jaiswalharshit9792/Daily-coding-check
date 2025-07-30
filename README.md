@@ -462,6 +462,16 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------| 
 | 2025-07-28|[two-sum](https://leetcode.com/problems/two-sum/submissions/1714864545/)|         Easy    | | 
 
+# DAY 125
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------| 
+| 2025-07-29|[two-sum](https://leetcode.com/problems/two-sum/submissions/1714864545/)|         Easy    | | 
+
+# DAY 126
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------| 
+| 2025-07-30|[two-sum](https://leetcode.com/problems/two-sum/submissions/1714864545/)|         Easy    | | 
+
 ## Goals
 
 - Solve at least one problem daily.
