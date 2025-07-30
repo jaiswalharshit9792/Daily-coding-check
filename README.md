@@ -470,7 +470,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 126
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-07-30|[two-sum](https://leetcode.com/problems/two-sum/submissions/1714864545/)|         Easy    | | 
+| 2025-07-30|[valid-parentheses](https://leetcode.com/problems/valid-parentheses/submissions/1717409171/)|         Easy    | | 
 
 ## Goals
 
