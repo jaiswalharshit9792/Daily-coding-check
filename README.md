@@ -472,6 +472,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------| 
 | 2025-07-30|[valid-parentheses](https://leetcode.com/problems/valid-parentheses/submissions/1717409171/)|         Easy    | | 
 
+# DAY 127
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------| 
+| 2025-07-31|[valid-parentheses](https://leetcode.com/problems/valid-parentheses/submissions/1717409171/)|         Easy    | | 
+
 ## Goals
 
 - Solve at least one problem daily.
