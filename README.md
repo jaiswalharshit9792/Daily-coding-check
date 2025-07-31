@@ -475,7 +475,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 127
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-07-31|[valid-parentheses](https://leetcode.com/problems/valid-parentheses/submissions/1717409171/)|         Easy    | | 
+| 2025-07-31|[arranging-coins](https://leetcode.com/problems/arranging-coins/submissions/1718477599/)|         Easy    | | 
 
 ## Goals
 
