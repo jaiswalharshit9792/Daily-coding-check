@@ -477,6 +477,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------| 
 | 2025-07-31|[arranging-coins](https://leetcode.com/problems/arranging-coins/submissions/1718477599/)|         Easy    | | 
 
+# DAY 128
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------| 
+| 2025-08-01|[arranging-coins](https://leetcode.com/problems/arranging-coins/submissions/1718477599/)|         Easy    | | 
+
 ## Goals
 
 - Solve at least one problem daily.
