@@ -490,7 +490,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 130
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-08-03|[reverse-string](https://leetcode.com/problems/reverse-string/submissions/1719830055/)|         Easy    | | 
+| 2025-08-03|[ugly-number](https://leetcode.com/problems/ugly-number/submissions/1722182317/)|         Easy    | | 
 
 ## Goals
 
