@@ -482,6 +482,16 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------| 
 | 2025-08-01|[reverse-string](https://leetcode.com/problems/reverse-string/submissions/1719830055/)|         Easy    | | 
 
+# DAY 129
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------| 
+| 2025-08-02|[reverse-string](https://leetcode.com/problems/reverse-string/submissions/1719830055/)|         Easy    | | 
+
+# DAY 130
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------| 
+| 2025-08-03|[reverse-string](https://leetcode.com/problems/reverse-string/submissions/1719830055/)|         Easy    | | 
+
 ## Goals
 
 - Solve at least one problem daily.
