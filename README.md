@@ -492,6 +492,16 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------| 
 | 2025-08-03|[ugly-number](https://leetcode.com/problems/ugly-number/submissions/1722182317/)|         Easy    | | 
 
+# DAY 131
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------| 
+| 2025-08-03|[ugly-number](https://leetcode.com/problems/ugly-number/submissions/1722182317/)|         Easy    | | 
+
+# DAY 132
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------| 
+| 2025-08-03|[ugly-number](https://leetcode.com/problems/ugly-number/submissions/1722182317/)|         Easy    | | 
+
 ## Goals
 
 - Solve at least one problem daily.
