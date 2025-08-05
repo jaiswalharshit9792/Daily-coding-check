@@ -500,7 +500,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 132
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-08-03|[ugly-number](https://leetcode.com/problems/ugly-number/submissions/1722182317/)|         Easy    | | 
+| 2025-08-03|[find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/submissions/1724664248/)|         Easy    | | 
 
 ## Goals
 
