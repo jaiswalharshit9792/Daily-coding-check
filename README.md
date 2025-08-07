@@ -519,7 +519,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 
 # DAY 133     | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-08-07|[find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/submissions/1724664248/)|         Medium    | | 
+| 2025-08-07|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/1727121263/)|         Medium    | | 
 
 ## Goals
 
