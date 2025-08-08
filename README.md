@@ -524,7 +524,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 
 # DAY 134     | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-08-08|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/1727121263/)|         Medium    | | 
+| 2025-08-08|[count-and-say](https://leetcode.com/problems/count-and-say/submissions/1728242075/)|         Medium    | | 
 
 ## Goals
 
