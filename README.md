@@ -522,6 +522,10 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------| 
 | 2025-08-07|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/1727121263/)|         Medium    | | 
 
+# DAY 134     | Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------| 
+| 2025-08-08|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/1727121263/)|         Medium    | | 
+
 ## Goals
 
 - Solve at least one problem daily.
