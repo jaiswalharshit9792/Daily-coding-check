@@ -538,6 +538,14 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------| 
 | 2025-08-11|[count-and-say](https://leetcode.com/problems/count-and-say/submissions/1728242075/)|         Medium    | | 
 
+# DAY 138     | Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------| 
+| 2025-08-12|[count-and-say](https://leetcode.com/problems/count-and-say/submissions/1728242075/)|         Medium    | | 
+
+# DAY 139     | Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------| 
+| 2025-08-13|[count-and-say](https://leetcode.com/problems/count-and-say/submissions/1728242075/)|         Medium    | | 
+
 ## Goals
 
 - Solve at least one problem daily.
