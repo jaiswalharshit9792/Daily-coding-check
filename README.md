@@ -549,7 +549,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 
 # DAY 140     | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------| 
-| 2025-08-14|[partition-list](https://leetcode.com/problems/partition-list/submissions/1734038693/)|         Medium    | | 
+| 2025-08-14|[binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view/submissions/1735197844/)|         Medium    | | 
 
 ## Goals
 
