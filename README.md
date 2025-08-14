@@ -547,6 +547,10 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------| 
 | 2025-08-13|[partition-list](https://leetcode.com/problems/partition-list/submissions/1734038693/)|         Medium    | | 
 
+# DAY 140     | Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------| 
+| 2025-08-14|[partition-list](https://leetcode.com/problems/partition-list/submissions/1734038693/)|         Medium    | | 
+
 ## Goals
 
 - Solve at least one problem daily.
